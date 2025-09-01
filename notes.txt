@@ -1,3 +1,2 @@
 This is a note.
 This is 2nd line.
-A wrong line.
